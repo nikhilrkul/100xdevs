@@ -8,6 +8,7 @@ const allUsers = [
     firstname: "Nikhil",
     gender: "male",
   },
+  
   {
     firstname: "Saumya",
     gender: "male",
